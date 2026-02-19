@@ -38,6 +38,7 @@ I am a **Data Analytics Student** at the **Faculty of Sciences and Techniques of
 
 ### 📊 GitHub Stats
 
-![Sofyane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sofiane-web&show_icons=true&theme=tokyonight&hide_border=true)
+![Sofyane's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sofiane-web&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiane-web&layout=compact&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sofiane-web&layout=compact&theme=tokyonight)
